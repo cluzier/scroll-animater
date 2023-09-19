@@ -1,0 +1,31 @@
+{
+  "name": "scroll-animater",
+  "version": "1.2.0",
+  "description": "Elevate your web applications with seamless scroll-based animations using the scroll-animater library. This lightweight and versatile TypeScript library empowers developers to effortlessly create captivating and interactive scrolling effects, enhancing the user experience to a new level.",
+  "main": "src/scroll-animater.ts",
+  "files": [
+    "src/*.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "postinstall": "tsc -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluzier/scroll-animater.git"
+  },
+  "keywords": [
+    "scroll",
+    "animate"
+  ],
+  "author": "cluzier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cluzier/scroll-animater/issues"
+  },
+  "homepage": "https://github.com/cluzier/scroll-animater#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
