@@ -24,4 +24,4 @@ jobs:
       - name: Publish to GPR
         run: npm publish --access public
         env:
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          NODE_AUTH_TOKEN: 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
