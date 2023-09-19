@@ -1,4 +1,4 @@
-# scroll-animate
+# scroll-animater
 
 Elevate your web applications with seamless scroll-based animations using the scroll-animate library. This lightweight and versatile TypeScript library empowers developers to effortlessly create captivating and interactive scrolling effects, enhancing the user experience to a new level.
 
